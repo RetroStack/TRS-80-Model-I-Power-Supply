@@ -13,6 +13,7 @@ In the "Latest" folder, you'll find the most up-to-date design files, including:
 - Gerber files suitable for popular online PCB manufacturers like [PCBWay](/Latest/TRS80_Model_I_Power_Supply_Gerber_PCBWay.zip) and [JLCPCB](/Latest/TRS80_Model_I_Power_Supply_Gerber_JLCPCB.zip). Most manufacturers should be fine with either.
 - A Bill of Materials (BOM) in both [CSV](/Latest/TRS80_Model_I_Power_Supply_BOM.csv) and [PDF](/Latest/TRS80_Model_I_Power_Supply_BOM.pdf) formats. (Also, see the list below.)
 - The [full schematics](/Latest/TRS80_Model_I_Power_Supply_Schematics.pdf).
+- 3D Objects of [Base](/3DPrint/Base.stl) and [Lid](/3DPrint/Lid.stl) for 3D printing.
 
 ### Bill of Materials (BOM)
 
@@ -24,7 +25,7 @@ Note: Links and alternatives are provided to assist you in finding the necessary
 |-|-|-|-|-|-|-|-|-|
 |D1, D2|2|1N4001|50V 1A General Purpose Rectifier Diode, DO-41|Rectifying diodes||$0.10|$0.20|[Mouser](https://www.mouser.com/ProductDetail/637-1N4001)|
 |F1|1|~|250V 1A Fast Blow 5x20mm|||$0.36|$0.36|[Mouser](https://www.mouser.com/ProductDetail/504-BK1-S500-1-R)|
-|T1|1||F-241U|Transformer, single primary, dual secondary|$25.10|$25.10|[Mouser](https://www.mouser.com/ProductDetail/553-F241U)|
+|T1|1||F-241U|Transformer, single primary, dual secondary||$25.10|$25.10|[Mouser](https://www.mouser.com/ProductDetail/553-F241U)|
 ||1||PCB||Lot of 5|~$0.40|~$0.40|-|
 ||8|M3 3x5mm|Knurled Nut||Kit|~$0.00|~$0.00|[Amazon](https://www.amazon.com/Ktehloy-Threaded-Assortment-Printing-Components/dp/B0CLKDPN65/)|
 ||2|M3 4mm|Screw /w Sunk head,For Power unit||||-|
@@ -38,13 +39,15 @@ Note: Links and alternatives are provided to assist you in finding the necessary
 ||1||Lid|3D Printed||||-|
 ||1||Base|3D Printed||||-|
 
-
 ### Assembly
 
 **Prepare Case**
 1. 3D print case (lid and base) or order from manufacturer.
 2a. If 3D printed with PLA and similar, use a soldering iron to set the knurled nuts. You can buy a set of tools to simplify this, but a soldering iron is enough.
 2b. If 3D printed with resin, drill out a bit more space on all the 6 places and set the knurled nuts with super glue. Make sure to not cover the threads as it would give you trouble later to screw things in. Wait for it to get really solid before moving on.
+
+![3D Case](/Images/3DPrint_Model.png)
+
 3. Paint the lettering on the top. I was able to do this nicely with a foam brush. Optionally add a clear coat to protect the paint from rubbing off.
 4. Screw in the transformer with the M4 screws.
 
