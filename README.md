@@ -43,13 +43,13 @@ Note: Links and alternatives are provided to assist you in finding the necessary
 
 **Prepare Case**
 1. 3D print case (lid and base) or order from manufacturer.
-2a. If 3D printed with PLA and similar, use a soldering iron to set the knurled nuts. You can buy a set of tools to simplify this, but a soldering iron is enough.
-2b. If 3D printed with resin, drill out a bit more space on all the 6 places and set the knurled nuts with super glue. Make sure to not cover the threads as it would give you trouble later to screw things in. Wait for it to get really solid before moving on.
+2. (a) If 3D printed with PLA and similar, use a soldering iron to set the knurled nuts. You can buy a set of tools to simplify this, but a soldering iron is enough.
+3. (b) If 3D printed with resin, drill out a bit more space on all the 6 places and set the knurled nuts with super glue. Make sure to not cover the threads as it would give you trouble later to screw things in. Wait for it to get really solid before moving on.
 
 ![3D Case](/Images/3DPrint_Model.png)
 
-3. Paint the lettering on the top. I was able to do this nicely with a foam brush. Optionally add a clear coat to protect the paint from rubbing off.
-4. Screw in the transformer with the M4 screws.
+4. Paint the lettering on the top. I was able to do this nicely with a foam brush. Optionally add a clear coat to protect the paint from rubbing off.
+5. Screw in the transformer with the M4 screws.
 
 **Electronics**
 1. Crimp two short wires to add a jumper between the neutral to the switch and another from the fuse to the switch. One side of the switch will be the terminals of the light (you can often see the leads for the lightbulb). You want the one side not for the light so the light only turns on when switch is turned on. You can swap them around later if you find it isn't correct. For the wire, I used AWG 26.
