@@ -1,0 +1,18 @@
+Ref,Qnty,Value,Component,Description,Source Comment,Source Cost,Source Total Cost,Source
+"D1, D2",2,1N4001,"50V 1A General Purpose Rectifier Diode, DO-41",Rectifying diodes,,$0.10,$0.20,Mouser
+F1,1,~,250V 1A Fast Blow 5x20mm,,,$0.36,$0.36,Mouser
+T1,1,,F-241U,"Transformer, single primary, dual secondary",,$25.10,$25.10,Mouser
+,1,,PCB,,Lot of 5,~$0.40,~$0.40,-
+,8,M3 3x5mm,Knurled Nut,"2x on the side of the housing to hold power switch unit
+2x to hold the PCB inside the case
+4x for Lid",Kit,~$0.00,~$0.00,Amazon
+,2,M3 4mm,Screw /w Sunk head,For Power unit,,,,-
+,2,M3 6mm,Screw,For PCB,,,,-
+,4,M3 8mm,Screw,For Lid,,,,-
+,4,M4 4x6mm,Knurled Nut,All 4 to hold transformer in place,Kit,~$0.00,~$0.00,Amazon
+,4,M4 6mm,Screw,Transformer,,,,-
+,6,FDFD1.25-187,Female Insulating Spade Connector,Cables for terminals of the power unit,Lot of 100,~$0.00,~$0.00,AliExpress
+,1,,Power Unit,With switch and Fuse holder,,$3.30,$3.30,AliExpress
+,1,,Strain Relief,Cable Strain Relief,Lot of 10,$0.68,$0.68,Amazon
+,1,,Lid,3D Printed,,,,-
+,1,,Base,3D Printed,,,,-
