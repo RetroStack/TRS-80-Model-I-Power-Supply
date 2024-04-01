@@ -2,6 +2,10 @@
 
 This project is a reimplementation of the TRS-80 Model 1 Power Supply that replicates the DC and AC voltages needed to run the original system. This revision is based on the original design and uses some of the findings from [www.shockrisk.com](https://www.shockrisk.com/index.php/2023/10/14/trs-80-model-1-power-supply/). The entire project is available under the MIT license.
 
+**NOTE**: There is currently another power supply being developed by Matt Boytim that appears to be smaller and cheaper. I will add a link here as soon as this is publicly available. Consider waiting for that design.
+
+**WARNING**: Since this project works with high voltages, please only do this if you know what you are doing. Working on high voltages can kill you! Additionally, doing things incorrectly could burn down your house.
+
 ![E1 Replica](/Latest/TRS80_Model_I_Power_Supply_Photo.png)
 
 ## Project Details
