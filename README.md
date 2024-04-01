@@ -79,6 +79,7 @@ Note: Links and alternatives are provided to assist you in finding the necessary
 12. Screw in PCB
 13. Screw in Power Unit
 14. Screw the lid to the top
+15. Add fuse to the fuse holder
 
 ### Implementation
 
