@@ -83,7 +83,7 @@ Note: Links and alternatives are provided to assist you in finding the necessary
 
 ### Implementation
 
-E1 has been implemented using KiCAD 7. The KiCAD project files are included in this repository.
+The project has been implemented using KiCAD 7. The KiCAD project files are included in this repository.
 
 ![Front](/Latest/TRS80_Model_I_Power_Supply_3D_Front.png)
 ![Back](/Latest/TRS80_Model_I_Power_Supply_3D_Back.png)
